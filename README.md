@@ -1,16 +1,21 @@
-### Hi there 👋
+## HEY!
 
-<!--
-**amirhoseinsalimi/amirhoseinsalimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/amirhoseinsalimi/">
+  <img align="left" alt="Amir Hosein Salimi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/AHoseinSalimi">
+  <img align="left" alt="Amir Hosein Salimi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://t.me/amirhoseinsalimii">
+  <img align="left" alt="Amir Hosein Salimi's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://sourcerer.io/hrbdev">
+  <img align="left" src="https://sourcerer.io/icons/logo-sharing.svg" height="22px" alt="Sourcerer">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+
+[![Amir Hosein Salimi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirhoseinsalimi&show_icons=true)](https://github.com/amirhoseinsalimi)
