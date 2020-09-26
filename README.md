@@ -10,10 +10,6 @@
   <img align="left" alt="Amir Hosein Salimi's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="https://sourcerer.io/hrbdev">
-  <img align="left" src="https://sourcerer.io/icons/logo-sharing.svg" height="22px" alt="Sourcerer">
-</a>
-
 <br />
 <br />
 
