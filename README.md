@@ -16,25 +16,4 @@
 
 [![Amir Hosein Salimi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirhoseinsalimi&show_icons=true)](https://github.com/amirhoseinsalimi)
 
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
-on:
-  # Schedule updates
-  schedule: [{cron: "0 * * * *"}]
-  push: {branches: "master"}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: amirhoseinsalimi
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Tehran
+![Metrics](https://metrics.lecoq.io/amirhoseinsalimi?template=classic&followup=1&languages=1&isocalendar=1&pagespeed=1&posts=1&projects=1&stars=1&tweets=1&pagespeed.detailed=true&pagespeed.screenshot=true&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FTehran)
