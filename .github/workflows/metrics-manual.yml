@@ -20,7 +20,7 @@
 #
 # It will also run on each manual commit on "master" branch
 
-name: GitHub metrics
+name: GitHub metrics manual
 on: [workflow_dispatch]
 jobs:
 
