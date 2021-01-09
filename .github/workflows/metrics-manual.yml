@@ -94,7 +94,7 @@ jobs:
 
       # Classic template with header and repositories sections
       - name: Classic template
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -106,7 +106,7 @@ jobs:
 
       # Terminal template with header and metadata sections
       - name: Terminal template
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           template: terminal
           filename: metrics.terminal.svg
@@ -123,7 +123,7 @@ jobs:
       # - As projects requires "public_repo" scope, you can use a bot account instead and use the "user" option instead
       # - You must pass the additional query parameter "repo" in a JSON format
       - name: Repository template
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           template: repository
           filename: metrics.repository.svg
@@ -143,7 +143,7 @@ jobs:
       # Don't forget to update your GitHub profile with your website
       # Token is optional but advised
       - name: PageSpeed plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.pagespeed.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -159,7 +159,7 @@ jobs:
       # Don't forget to update your GitHub profile with your website
       # Token is optional but advised
       - name: PageSpeed plugin (detailed)
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.pagespeed.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -176,7 +176,7 @@ jobs:
       # Don't forget to update your GitHub profile with your website
       # Token is optional but advised
       - name: PageSpeed plugin (screenshot)
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.pagespeed.screenshot.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -194,7 +194,7 @@ jobs:
       # - "plugin_music_mode" and "plugin_music_provider" are both optional (they're deduced from "plugin_music_playlist")
       # - "plugin_music_token" is not needed as it uses pupeeter to retrieve tracks
       - name: Music plugin (playlist)
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.music.playlist.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -211,7 +211,7 @@ jobs:
       # Note that :
       # - "plugin_music_mode", "plugin_music_provider" and "plugin_music_token" are all required
       - name: Music plugin (recent)
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.music.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -229,7 +229,7 @@ jobs:
       # Display coding habits and recent activity
       # Don't forget to setup timezone for accurate metrics
       - name: Habits plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -245,7 +245,7 @@ jobs:
       # Display coding habits and recent activity (only facts section)
       # Don't forget to setup timezone for accurate metrics
       - name: Habits plugin (facts)
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -261,7 +261,7 @@ jobs:
       # Display coding habits and recent activity (only charts section)
       # Don't forget to setup timezone for accurate metrics
       - name: Habits plugin (charts)
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -277,7 +277,7 @@ jobs:
       # Display most used languages
       # You can ignore some languages and skip some repositories if you want
       - name: Languages plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -292,7 +292,7 @@ jobs:
 
       # Display ratio of open/closed/merged issues and pull requests 
       - name: Follow-up plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -307,7 +307,7 @@ jobs:
       # Note that :
       # - This is part of "repositories" section, so you need to enable it
       - name: Lines plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -323,7 +323,7 @@ jobs:
       # - This is part of "repositories" section, so you need to enable it
       # - A "repo" scope is required
       - name: Traffic plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.traffic.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -339,7 +339,7 @@ jobs:
       # - "plugin_posts_source" is required
       # - With "dev.to" as source, your GitHub username is directly used
       - name: Posts plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.posts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -353,7 +353,7 @@ jobs:
 
       # Display isometric calendar (180 days)
       - name: Isocalendar plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -366,7 +366,7 @@ jobs:
 
       # Display isometric calendar (365 days)
       - name: Isocalendar plugin (full year)
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -380,7 +380,7 @@ jobs:
 
       # Display gists metrics
       - name: Gists plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.gists.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -393,7 +393,7 @@ jobs:
 
       # Display starred topics (as labels)
       - name: Topics plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.topics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -409,7 +409,7 @@ jobs:
       # Note that : 
       # - Only topics with an icon will be displayed (most of majors topics have one anyway)
       - name: Topics plugin (mastered)
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.topics.mastered.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -429,7 +429,7 @@ jobs:
       # - You can set "plugin_projects_limit" to 0 to display only "plugin_projects_repositories"
       # - You'll need to enable "Track project progress" in your projects to display a progress bar
       - name: Projects plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.projects.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -446,7 +446,7 @@ jobs:
       # Note that : 
       # - You must provide a "plugin_tweets_token"
       - name: Tweets plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.tweets.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -460,7 +460,7 @@ jobs:
           
       # Display your stargazers evolutions
       - name: Stargazers plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -473,7 +473,7 @@ jobs:
           
       # Display your latest starred repositories
       - name: Stars plugin
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -490,7 +490,7 @@ jobs:
       # - "--hireable" will act as if "Available for hire" is enabled on your account
       # - "--halloween" will act as if it was halloween, changing the colors of contributions calendar and isocalendar
       - name: Header (additional features)
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.header.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -505,7 +505,7 @@ jobs:
       # The "METRICS_TOKEN" does not contains the "public_repo" scope, which is required for "plugin_projects"
       # It will display an "Insufficient token rights" error
       - name: Plugin error example
-        uses: amirhoseinsalimi/metrics@master
+        uses: amirhoseinsalimi/metrics@latest
         with:
           filename: metrics.plugin.error.svg
           token: ${{ secrets.METRICS_TOKEN }}
