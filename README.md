@@ -15,5 +15,7 @@
 
 
 [![Amir Hosein Salimi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirhoseinsalimi&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/amirhoseinsalimi)
+[![Amir Hosein Salimi' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinsalimi)](https://github.com/amirhoseinsalimi)
+
 
 ![Metrics](https://github.com/amirhoseinsalimi/amirhoseinsalimi/blob/master/github-metrics.svg)
