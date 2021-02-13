@@ -15,7 +15,7 @@
 
 
 [![Amir Hosein Salimi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirhoseinsalimi&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40&cache_seconds=10800)](https://github.com/amirhoseinsalimi/amirhoseinsalimi)
-[![Amir Hosein Salimi' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinsalimi&langs_count=5&theme=tokyonight&cache_seconds=10800)](https://github.com/amirhoseinsalimi/amirhoseinsalimi)
+[![Amir Hosein Salimi' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinsalimi&langs_count=6&theme=tokyonight&cache_seconds=10800)](https://github.com/amirhoseinsalimi/amirhoseinsalimi)
 
 
 ![Metrics](https://github.com/amirhoseinsalimi/amirhoseinsalimi/blob/master/github-metrics.svg)
