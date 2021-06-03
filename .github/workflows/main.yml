@@ -23,5 +23,6 @@ jobs:
           plugin_languages: yes
           plugin_projects: yes
           plugin_projects_limit: 6
+          plugin_stackoverflow_user: 8763510
           plugin_stars: yes
           plugin_stars_limit: 4
