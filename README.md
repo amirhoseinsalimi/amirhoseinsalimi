@@ -23,6 +23,7 @@ I always seek to have a great impact on processes, code structure, and solutions
 <p align="left">
 Languages, frameworks and libraries that I use: 👇&nbsp;
 
+<div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-5AC193?style=for-the-badge&logo=vue.js&logoColor=white"/>
@@ -43,16 +44,19 @@ Languages, frameworks and libraries that I use: 👇&nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-BF4080?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white"/>
+</div>
 </p>
 
 <p>
 I also use these tools:&nbsp;
 
+<div>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-DB4128?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C85?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 </p>
 
 
