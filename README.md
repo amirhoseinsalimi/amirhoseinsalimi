@@ -6,7 +6,6 @@
 [![github](https://img.shields.io/badge/amirhoseinsalimi-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirhoseinsalimi/)
 [![Twitter](https://img.shields.io/badge/amirhoseinsalimi-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/AHoseinSalimi/)
 [![telegram](https://img.shields.io/badge/amirhoseinsalimi-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amirhoseinsalimii/)
-[![Instagram](https://img.shields.io/badge/amirhoseinsalimi-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amirhoseinsalimii/)
  
 </div>  
 
@@ -22,7 +21,7 @@ I always seek to have a great impact on processes, code structure, and solutions
 <hr />
 
 <p align="left">
-Languages, frameworks and libraries that I use: 👇
+Languages, frameworks and libraries that I use: 👇&nbsp;
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -47,7 +46,7 @@ Languages, frameworks and libraries that I use: 👇
 </p>
 
 <p>
-I also use these tools:
+I also use these tools:&nbsp;
 
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white"/>
