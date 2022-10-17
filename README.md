@@ -60,25 +60,35 @@ I also use these tools:&nbsp;
 </p>
 
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+<hr />
 
-<a href="https://www.linkedin.com/in/amirhoseinsalimi/">
-  <img align="left" alt="Amir Hosein Salimi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/AHoseinSalimi">
-  <img align="left" alt="Amir Hosein Salimi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/amirhoseinsalimii">
-  <img align="left" alt="Amir Hosein Salimi's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+## Github stats 📊 
+
+<summary>Profile Views 👁️</summary>
+  <br/>
+
+  ![](https://komarev.com/ghpvc/?username=amirhoseinsalimi&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+
+<details open="open"> 
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirhoseinsalimi&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40&cache_seconds=10800)](https://github.com/amirhoseinsalimi/amirhoseinsalimi)
+    
+  [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinsalimi&langs_count=6&theme=tokyonight&cache_seconds=10800)](https://github.com/amirhoseinsalimi/amirhoseinsalimi)
+  <br/>
+</details>
+
+<details open="open">
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+  [![My GitHub Stats](https://activity-graph.herokuapp.com/graph/?username=amirhoseinsalimi&bg_color=fff&color=000&line=00E676&point=000&hide_border=true)](https://github.com/amirhoseinsalimi/amirhoseinsalimi)
+</details>
+
 
 <br />
 <br />
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirhoseinsalimi&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40&cache_seconds=10800)](https://github.com/amirhoseinsalimi/amirhoseinsalimi)
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinsalimi&langs_count=5&theme=tokyonight&cache_seconds=10800)](https://github.com/amirhoseinsalimi/amirhoseinsalimi)
-
-![](https://komarev.com/ghpvc/?username=amirhoseinsalimi)
 
 
 ![Metrics](https://github.com/amirhoseinsalimi/amirhoseinsalimi/blob/master/github-metrics.svg)
