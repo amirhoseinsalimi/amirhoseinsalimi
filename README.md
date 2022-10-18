@@ -99,4 +99,4 @@ I also use these tools:&nbsp;
 
 ![Contributions](https://github.com/amirhoseinsalimi/amirhoseinsalimi/blob/master/metrics.plugin.isocalendar.fullyear.svg)
 
-
+![Recently Starred](https://github.com/amirhoseinsalimi/amirhoseinsalimi/blob/master/metrics.plugin.stars.svg)
