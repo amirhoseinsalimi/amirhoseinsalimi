@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LinusBorg/vue-mixable</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turn Vue Mixins into Composables with a simple wrapper function</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailwindlabs/prettier-plugin-tailwindcss</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andymark-by/click-outside-vue3</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔲 Vue 3 directive to react on clicks outside an element without stopping the event propagation</div>
