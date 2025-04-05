@@ -10,7 +10,7 @@
 </div>  
 
 <p align="justify"> 
-Front-end engineer with 7+ years of experience and an established record of success in implementing best practices and improving development processes. Possess a deep understanding of modern front-end fundamentals and related tools. Worked in teams of 2-30 team members. Have a demonstrated proficiency in writing clean, efficient, and scalable code, and delivering high-quality, complex projects on time and within budget. Eager to stay up-to-date with the latest trends and technologies and enjoy collaborating with colleagues to share knowledge. Confident in bringing significant value to any team and contributing to the success of any project.
+Front-end engineer with 8+ years of experience and an established record of success in implementing best practices and improving development processes. Possess a deep understanding of modern front-end fundamentals and related tools. Worked in teams of 2-30 team members. Have a demonstrated proficiency in writing clean, efficient, and scalable code, and delivering high-quality, complex projects on time and within budget. Eager to stay up-to-date with the latest trends and technologies and enjoy collaborating with colleagues to share knowledge. Confident in bringing significant value to any team and contributing to the success of any project.
 
 **Feel free to contact me if you need help, are looking for mentorship, or have projects.**
 &nbsp;
